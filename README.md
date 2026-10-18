@@ -26,7 +26,7 @@ Uma nova versão da simulação de basquete, com personagens que possuem caracte
 
 **Conceitos praticados:** programação orientada a objetos, classes, métodos, listas, estruturas de repetição, cálculos e uso de módulos.
 
-[Ver código](copy_of_partida_de_basquete_2_0.py)
+[Ver código](Partida_de_basquete_2_0.py)
 
 ### 4. Calculadora de Média de Quatro Notas 📊
 
